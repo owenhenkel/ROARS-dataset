@@ -1,4 +1,4 @@
-# Rising & Oxford African Reading comprehension Short answer (ROARS) Dataset 
+# ROARS (Rising & Oxford African Reading comprehension Short answer) Dataset 
 
 This repo contains the dataset and related materials associated with the paper:
 
